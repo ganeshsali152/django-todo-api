@@ -1,0 +1,10 @@
+**/.DS_Store
+*.log
+*.pot
+*.pyc
+__pycache__/
+venv/
+.env
+.ruff_cache/
+db.sqlite3
+
